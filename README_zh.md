@@ -25,4 +25,16 @@ https://github.com/yourusername/NVM-Express-md-version.git
 请在仓库中添加合适的许可证，例如 MIT 许可证。
 
 ## 联系信息
+ - Email: xueyuan_han@163.com
 如果您有任何问题或建议，欢迎通过 GitHub Issues 联系我们。
+
+
+## 项目进展
+当前 `NVM-Express-Boot-Specification` 已更新至修订版本 1.2（2025 年 3 月 11 日批准），该版本整合了修订版本 1.1 以及 ECN123 的内容。相关文档可从 [NVM Express 官网](https://nvmexpress.org) 下载。
+
+## 版本提交计划
+目前准备提交一个新版本，以更新项目状态和文档。
+
+## 后续工作计划
+未来将逐步更新 `NVM-Express-Base-Specification`，以保持与行业标准同步。
+
